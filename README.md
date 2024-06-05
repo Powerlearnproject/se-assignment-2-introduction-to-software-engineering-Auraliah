@@ -262,4 +262,9 @@ Ethics Training: Participate in ethics training and discussions to enhance aware
 
 Collaboration and Accountability: Work collaboratively with colleagues, stakeholders, and users to identify and address ethical concerns throughout the software development process. Foster a culture of accountability where ethical considerations are prioritized and addressed openly.
 
-
+References
+[IEEE] IEEE. Standards Collection. Software Engineering Institute of
+Electrical and Electronic Engineers. 1994.
+[PMBOK] A Guide to the Project Management Body of Knowledge (PMBOK
+Guide) – 2000 edition. Project Management Institute, 2000.
+[PRINCE2] Managing Successful projects with PRINCE2 (PRINCE Guidance). 
